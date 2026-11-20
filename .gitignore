@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode : réglages personnels et fichiers générés
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
